@@ -1,0 +1,42 @@
+—_
+—_
+---------------------------
+BB _pycache_
+BB _pycache_
+---------------------------
+Bev
+Bev
+---------------------------
+Clete
+Clete
+---------------------------
+Bepp.py
+Bepp.py
+---------------------------
+B capturepy
+B capturepy
+---------------------------
+Bi ucense
+Bi chantaje
+---------------------------
+BB README.md
+BB README.md
+---------------------------
+5
+Cinco
+---------------------------
+requer
+Requiere
+---------------------------
+nts.txt
+NTS.txt
+---------------------------
+BB settings.py
+BB settings.py
+---------------------------
+B translate py
+B traducir py
+---------------------------
+Butilpy
+Butilpy
+---------------------------
