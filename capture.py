@@ -1,10 +1,10 @@
-from settings import VIEW_LANG
+from settings import VIEW_LANG, PATH_TESSERACT
 from PIL import ImageGrab
 from pytesseract import image_to_string, pytesseract
 import uuid
 
 # Sets the path of the Tesseract OCR executable file on a Windows operating system.
-pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
+pytesseract.tesseract_cmd = PATH_TESSERACT
 
 
 class Capture:
